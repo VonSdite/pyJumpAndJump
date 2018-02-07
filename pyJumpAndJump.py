@@ -32,7 +32,7 @@ LITTLE_MAN_WIDTH = 52
 # 按压的位置，为开始游戏的位置
 PRESS_X1, PRESS_Y1, PRESS_X2, PRESS_Y2 = (300, 1010, 400, 1010)
 
-PRESS_X_OFFSET = 2.15879      # 按压时间系数, 需要更改，可以自己慢慢微调
+PRESS_X_OFFSET = 2.1588599      # 按压时间系数, 需要更改，可以自己慢慢微调
 
 # 调用安卓adb截图并获取截图
 def pull_screenshot(mission):
