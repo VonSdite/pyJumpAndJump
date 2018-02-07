@@ -17,7 +17,6 @@ if not os.path.isdir(SCREEN_SHOT_PATH):
     os.mkdir(SCREEN_SHOT_PATH)
 
 # 小人最下方的线到小人底盘中心的偏移值
-# 可能需要修正， 待观察
 DEVIATION = 13
 
 # 分数板的最低位置
