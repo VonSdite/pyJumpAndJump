@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # __Author__: Sdite
-# __Email__ : a122691411@gmail.com
+# __Email__ : vonsdite@gmail.com
 
 import os
 import time
